@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Encerrar sessão
+Exec=cinnamon-session-quit  --logout
+Comment=Encerrar sessão
+Terminal=false
+PrefersNonDefaultGPU=false
+Icon=xfsm-logout
+Type=Application
